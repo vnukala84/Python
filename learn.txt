@@ -1,1 +1,4 @@
-
+type(10)
+typecast
+int('1') : 1
+type(true):bool
